@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sarah-laing/filerelayservice/pkg/frs"
+	"github.com/sarah-laing/file_relay_service/pkg/frs"
 )
 
 type connectionInfo struct {

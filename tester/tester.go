@@ -9,7 +9,7 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/sarah-laing/filerelayservice/pkg/frs"
+	"github.com/sarah-laing/file_relay_service/pkg/frs"
 )
 
 const relayServiceIP = "127.0.0.1:25504"
