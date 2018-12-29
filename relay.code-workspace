@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "/home/sl/go/src/github.com/sarah-laing/filerelayservice"
+			"path": "/home/sl/go/src/github.com/sarah-laing/file_relay_service"
 		},
 		{
-			"path": "/home/sl/go/src/github.com/sarah-laing/filerelayservice/pkg/frs"
+			"path": "/home/sl/go/src/github.com/sarah-laing/file_relay_service/pkg/frs"
 		}
 	],
 	"settings": {}
